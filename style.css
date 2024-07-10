@@ -1,0 +1,28 @@
+a{
+    color: rgb(255, 95, 3);
+    text-decoration: none;
+}
+#Inp1{
+    color:blueviolet;
+    background-color: rgb(175, 212, 245);
+}
+#p1{
+    color: brown;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#p2{
+    color: rgb(130, 53, 255);
+    font-size: larger;
+    font-family: monospace;
+}
+#p3{
+    color: aquamarine;
+    font-family: cursive;
+}
+.grp1{
+    color: rgb(251, 251, 251);
+    border: 2px solid rgb(0, 0, 0);
+    margin: 5% 30% 2% 20%;
+    background-color: black;
+    padding: 10px 20px 30px 40px;
+}
